@@ -1,2 +1,2 @@
 # Kana.js
-KanaAPIをかんたんに使えるようにする。
+KanaAPIを手軽に利用する。
